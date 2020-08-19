@@ -1,11 +1,23 @@
 
-  
+---
+
 # yo lakshay kiran (⊙_◎)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  
+---
+
+![car](./octocat.png)  
+
+
+` yo lakshay :heart: Open Source `
+
+[![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)  
+
+---
+
+<br>
+
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)
 
 ---
 
@@ -26,7 +38,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkiran5080&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkiran5080&layout=compact&theme=radical)  
 
 ---
 
