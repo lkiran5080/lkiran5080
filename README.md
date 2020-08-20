@@ -23,13 +23,16 @@
 (⊙_◎) : <https://twitter.com/KiranLakshay>
 
 
-
 ---
 
 
 # yo lakshay :heart: Open Source 
 
-![car](./octocat.png)  
+<p align="center">
+
+![cat](./justicetocat.jpg)  
+
+</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)  
  
