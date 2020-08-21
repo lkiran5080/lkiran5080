@@ -30,7 +30,7 @@
 
 <p align="center">
 
-![cat](./justicetocat.jpg)  
+![cat](https://github.com/lkiran5080/lkiran5080/raw/master/justicetocat.jpg)  
 
 </p>
 
