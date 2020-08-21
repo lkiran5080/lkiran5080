@@ -1,7 +1,7 @@
 
 ---
 
-![lkiran](./lkiran.png)
+![lkiran](https://github.com/lkiran5080/lkiran5080/blob/master/lkiran.png)
 
 
 # (⊙_◎) lakshay kiran
