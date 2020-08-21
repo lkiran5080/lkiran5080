@@ -1,6 +1,9 @@
 
 ---
 
+
+<p align="center">
+
     ,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
     |1/2| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | + | ' | <-    |
     |---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
@@ -8,59 +11,30 @@
     |-----',--',--',--',--',--',--',--',--',--',--',--',--'|    |
     | Caps | A | S | D | F | G | H | J | K | L | \ | [ | * |    |
     |----,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'---'----|
-    |    | < | Z | X | C | V | B | N | M | , | . | - |          |
+    |    | <p | Z | X | C | V | B | N | M | , | . | - |          |
     |----'-,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
     | ctrl |  | alt |                          |altgr |  | ctrl |
     '------'  '-----'--------------------------'------'  '------'
 
----
-
-# (⊙_◎) yo lakshay kiran
-
-(⊙_◎) : <https://github.com/lkiran5080>  
-(⊙_◎) : <https://bit.ly/lkiran5080>  
-(⊙_◎) : <https://bit.ly/hirelakshay>  
-(⊙_◎) : <https://twitter.com/KiranLakshay>
-
-
----
-
-
-# yo lakshay :heart: Open Source 
-
-<p align="center">
-
-![cat](./justicetocat.jpg)  
-
-</p>
-
-[![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)  
- 
----
-  
-<p align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkiran5080&theme=radical)  
-
 </p>
 
 ---
-  
-<p align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  
+# (⊙_◎) lakshay kiran
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lkiran5080&show_icons=true&theme=radical)
+[![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com) 
 
-</p>
+`Thou art here` : <https://github.com/lkiran5080>  
+I write : <https://bit.ly/lkiran5080>  
+Hire Me : <https://bit.ly/hirelakshay>  
+I do , I swear : <https://twitter.com/KiranLakshay>  
+Everyone needs one : <http://bit.ly/lkiran5080in>
 
 ---
 
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/not-an-issue.svg)](https://forthebadge.com)  
 
 ---
