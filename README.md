@@ -13,8 +13,6 @@
 `Thou art here` : <https://github.com/lkiran5080>  
 I write : <https://bit.ly/lkiran5080>  
 Hire Me : <https://bit.ly/hirelakshay>  
-I do , I swear : <https://twitter.com/KiranLakshay>  
-Everyone needs one : <http://bit.ly/lkiranin>
 
 ---
 
